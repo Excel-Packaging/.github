@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Excel Packaging — It&#8217;s not just your package. It&#8217;s your brand.">
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="420" rx="14"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <!-- brand petrol background -->
+    <rect width="1200" height="420" fill="#003D4D"/>
+    <!-- terracotta top accent -->
+    <rect width="1200" height="6" fill="#DD7C59"/>
+
+    <!-- excel "x" monogram watermark, right side -->
+    <g transform="translate(905,35)" fill="#B7E2D9" opacity="0.06">
+      <rect x="-20" y="115" width="340" height="70" transform="rotate(-45 150 150)"/>
+      <rect x="30" y="30" width="95" height="95" transform="rotate(45 77.5 77.5)"/>
+      <rect x="175" y="175" width="95" height="95" transform="rotate(45 222.5 222.5)"/>
+    </g>
+    <!-- and a smaller one, left side -->
+    <g transform="translate(-60,160) scale(0.65)" fill="#B7E2D9" opacity="0.05">
+      <rect x="-20" y="115" width="340" height="70" transform="rotate(-45 150 150)"/>
+      <rect x="30" y="30" width="95" height="95" transform="rotate(45 77.5 77.5)"/>
+      <rect x="175" y="175" width="95" height="95" transform="rotate(45 222.5 222.5)"/>
+    </g>
+
+    <!-- wordmark -->
+    <text x="600" y="140" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="88" letter-spacing="-2" fill="#F3F7F8">e<tspan fill="#B7E2D9">x</tspan>cel</text>
+
+    <!-- tagline -->
+    <text x="600" y="218" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="35" fill="#F3F7F8">It&#8217;s not just your package.</text>
+    <text x="600" y="264" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="35" fill="#F3F7F8">It&#8217;s your brand.</text>
+
+    <!-- kicker -->
+    <text x="600" y="316" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" fill="#B7E2D9">FLEXIBLE PACKAGING&#160;&#160;&#183;&#160;&#160;ROTOGRAVURE PRINTING&#160;&#160;&#183;&#160;&#160;IRVINE, CA</text>
+
+    <!-- mint mountain motif -->
+    <path d="M0,420 L0,368 L60,336 L120,372 L180,344 L240,378 L300,340 L360,374 L420,348 L480,380 L540,338 L600,370 L660,342 L720,378 L780,336 L840,372 L900,346 L960,380 L1020,340 L1080,368 L1140,344 L1200,376 L1200,420 Z" fill="#B7E2D9" opacity="0.16"/>
+    <path d="M0,420 L0,388 L50,362 L100,392 L150,366 L200,396 L250,360 L300,390 L350,368 L400,398 L450,362 L500,392 L550,366 L600,396 L650,360 L700,390 L750,366 L800,396 L850,362 L900,392 L950,364 L1000,394 L1050,360 L1100,390 L1150,366 L1200,392 L1200,420 Z" fill="#B7E2D9" opacity="0.35"/>
+    <path d="M0,420 L0,402 L40,384 L80,406 L120,388 L160,408 L200,382 L240,404 L280,386 L320,408 L360,384 L400,406 L440,388 L480,408 L520,382 L560,404 L600,386 L640,408 L680,384 L720,406 L760,388 L800,408 L840,382 L880,404 L920,386 L960,408 L1000,384 L1040,406 L1080,388 L1120,408 L1160,384 L1200,404 L1200,420 Z" fill="#B7E2D9" opacity="0.9"/>
+  </g>
+</svg>
